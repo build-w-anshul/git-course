@@ -1,0 +1,5 @@
+HI there !!!!!!!!!
+hi testing git diff
+git diff - list all changes between staging area and working directory
+git diff HEAD - list all chages in the working trees(staged and unstaged) ince last commit
+git diff --staged/ git diff --cached - list changes between the staging area and the last commit
