@@ -1,0 +1,4 @@
+stashing command check 
+git stash pop
+git stash apply
+git stash apply -u
