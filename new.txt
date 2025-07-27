@@ -4,3 +4,7 @@ git diff - list all changes between staging area and working directory (unstaged
 git diff HEAD - list all chages in the working trees(staged and unstaged) ince last commit
 git diff --staged/ git diff --cached - list changes between the staging area and the last commit
 changing multiple files
+
+
+change in here, testing the protected rules of the main branch -- not llowing to merge to main directly
+rather make a pull request and get that merge too main
